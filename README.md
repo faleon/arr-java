@@ -1,2 +1,2 @@
 # arr-java
-Java programs, scripts, or jars developed by Antony Rivera
+Java programs, scripts, and jars developed by Antony Rivera
