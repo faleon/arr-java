@@ -1,0 +1,10 @@
+10,Strike
+15,Practiced Blow
+20,Shock,5
+30,Arcane Bolt,8
+45,Chaotic Beam,12
+55,Sunfire Surge,15
+65,First Cataclysm,22
+75,Rupturing Void,28
+80,Arcane Eruptions,35
+95,Nether Light Judgement,40

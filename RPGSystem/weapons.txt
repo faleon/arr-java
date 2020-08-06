@@ -1,0 +1,6 @@
+20,Spitfire,5,1
+20,Mournblade,6,1
+40,Narcoleptic,10,2
+40,Chieftain,12,2
+80,Bloodweep,20,3
+80,Nethersbane,25,3

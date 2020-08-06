@@ -1,0 +1,9 @@
+20,Greathelm of Condemned Glory,2,2,Helmet,1
+20,Armor of Unholy Freedom,3,3,Chest,1
+20,Platelegs of Infernal Bloodlust,2,1,Legs,1
+40,Helm of Faded Warlords,4,4,Helmet,2
+40,Chestguard of Immortal Powers,5,5,Chest,2
+40,Greaves of Infernal Fortune,3,2,Legs,2
+80,Adamantite Greathelm of Imminent Nights,5,5,Helmet,3
+80,Cuirass of Infernal Voices,10,7,Chest,3
+80,Skeletal Leggings of Haunted Voices,7,6,Legs,3

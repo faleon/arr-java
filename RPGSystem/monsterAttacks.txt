@@ -1,0 +1,9 @@
+15,Slash
+11,Shank
+10,Pummel
+25,Dark Concerto
+22,Cursed Hail
+20,Mocking Jab
+40,Infernal Requiem
+35,Shadow's Spear
+30,Blade Dance

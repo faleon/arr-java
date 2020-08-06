@@ -1,0 +1,10 @@
+10,Strike
+13,Furious Fist
+15,Cleave
+20,Heavy Strike
+23,Blind Rage,2
+30,Brutal Force,3
+33,Vicious Rend,4
+37,Devastating Momentum,5
+45,Hammerfall of Fury,4
+47,Unbridled Bloodlust,3

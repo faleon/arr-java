@@ -1,0 +1,7 @@
+10,Small Health Potion,hp,4,1
+10,Small Magic Potion,mp,4,1
+20,Meduim Health Potion,hp,3,2
+20,Meduim Magic Potion,mp,3,2
+40,Large Health Potion,hp,2,3
+40,Large Magic Potion,mp,2,3
+

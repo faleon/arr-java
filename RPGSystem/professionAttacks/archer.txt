@@ -1,0 +1,10 @@
+10,Strike
+13,Kick
+15,Parry
+20,Quick Strike
+22,Aimed Shot,4
+28,Precision Shot,5
+30,Quick Draw,6
+34,Arrowed Sky,5
+40,Thunder's Javalin,4
+42,Heavens Descent,3

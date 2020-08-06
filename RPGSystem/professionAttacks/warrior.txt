@@ -1,0 +1,9 @@
+10,Strike
+13,Parry
+15,Cleave
+20,Heavy Strike
+25,Heroic Charge,4
+30,Fallen Might,3
+35,Lightning Lunge,4
+40,Skyfall Thrust,3
+45,Abosulte Execution,2
